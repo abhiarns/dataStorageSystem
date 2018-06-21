@@ -35,7 +35,7 @@ void about()
 				"\n\t\t\t\t 2. Bikki"
 				"\n\t\t\t\t 3. Kewal"
 				"\n\t\t\t\t 4. Pratik\n\n";
-		cout<<"\tThis program is COPYRIGHT© PROTECTED . Any part of this "
+		cout<<"\tThis program is COPYRIGHTÂ© PROTECTED . Any part of this "
 				"program\n\tshould NOT be duplicated, distributed or sold in any "
 				"manner, \n\twithout the written permission of the coders.\n\n";
 		getch();
